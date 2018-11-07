@@ -1,5 +1,11 @@
 body {
-  padding-top: 50px;
+  padding-top: 100px;
+}
+
+nav h1 {
+  color: #fff;
+  font-size: 1.4em;
+  margin: .25em 0 .35em;
 }
 
 .card {

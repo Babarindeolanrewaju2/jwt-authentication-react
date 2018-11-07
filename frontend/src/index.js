@@ -6,10 +6,12 @@ import * as serviceWorker from './serviceWorker';
 import './index.css';
 import App from './App';
 import Login from './components/Login';
+import NavBar from './components/NavBar';
 
 ReactDOM.render(
     <BrowserRouter>
         <div>
+            <NavBar />
             <Route exact path="/" component={App} />
             <Route exact path="/login" component={Login} />
         </div>
