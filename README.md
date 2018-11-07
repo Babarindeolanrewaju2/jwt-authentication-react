@@ -8,7 +8,7 @@ The app uses the following simple JWT authentication service https://github.com/
 
 ## Live Demonstration
 
-A live demonstratyion can be seen here:
+A live demonstration can be seen here:
 
 https://jwt-auth-app.jamesevans.net/
 
